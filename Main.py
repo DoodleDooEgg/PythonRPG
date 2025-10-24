@@ -11,4 +11,8 @@ print("\nYou have deep hatred for the Americans after they colonised the New Wor
 time.sleep(3)
 print("\nYou are ordered to assasinate a high profile figure.")
 time.sleep(3)
-print("\nHe is located in a mansion")
+print("\nYour boss tells you..")
+time.sleep(2)
+print("\n"+"'"+name+", I want you to assasinate the man who will become president, to give me a chance to become president myself!'")
+
+
