@@ -35,3 +35,26 @@ if battle == run:
 
 elif battle == fight:
     print("You have engaged in a fight with Enemy 1.")
+    time.sleep(1)
+    print("You have three attacks. Piercing Stab and Pistol Shot")
+    time.sleep(1)
+    attack == input("Choose an attack from Piercing Stab and Pistol Shot:")
+    
+    if attack == "Piercing Stab"
+    print("You managed to defeat General Chungus. Do you want to proceed and assasinate Washington?")
+    
+else:
+    print("Invalid choice. You hesitated and lost your chance.")
+# enemy encounter 1 
+time.sleep(1)
+print("\nThis is General Chungus")
+battle = input("\nBattle General Chungus? Type either Yes or No: ")
+
+fight = "Yes"
+run = "No"
+
+if battle == run:
+    print("You have failed your mission.")
+
+elif battle == fight:
+    print("You have engaged in a fight with Enemy 1.")
