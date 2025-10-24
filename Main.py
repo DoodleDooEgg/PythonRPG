@@ -18,4 +18,20 @@ time.sleep(2)
 print("\nYou leave the house and make your way down to the adress that was written on a note your boss gave you..")
 time.sleep(2)
 print("\n.. '1600 Pennsylvania Avenue NW in Washington, D.C'")
+time.sleep(1)
+print("\nUpon arriving, you break into the mansion and in there you find the military general.")
 
+
+# enemy encounter 1 
+time.sleep(1)
+print("\nThis is General Chungus")
+battle = input("\nBattle General Chungus? Type either Yes or No: ")
+
+fight = "Yes"
+run = "No"
+
+if battle == run:
+    print("You have failed your mission.")
+
+elif battle == fight:
+    print("You have engaged in a fight with Enemy 1.")
