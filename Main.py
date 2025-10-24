@@ -14,5 +14,8 @@ time.sleep(3)
 print("\nYour boss tells you..")
 time.sleep(2)
 print("\n"+"'"+name+", I want you to assasinate the man who will become president, to give me a chance to become president myself!'")
-
+time.sleep(2)
+print("\nYou leave the house and make your way down to the adress that was written on a note your boss gave you..")
+time.sleep(2)
+print("\n.. '1600 Pennsylvania Avenue NW in Washington, D.C'")
 
