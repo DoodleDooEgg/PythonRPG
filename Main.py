@@ -1,1 +1,10 @@
-print("Hello")
+import time
+print("game start")
+time.sleep(.5)
+name = input("Choose your name: ")
+print("It is 1780")
+print("\n\n\nYou are "+name)
+time.sleep(1)
+print("\nYou are a professional assasin in America")
+time.sleep(1)
+print("\nYou have deep hatred for the Americans after they colonised the New World")
